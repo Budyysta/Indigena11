@@ -1,7 +1,7 @@
-<h1>Hi, I'm AJ</h1> 
+# Salve !
 
-<br></br>
+Welcome to my Github Profile, i Hope You Like it.
 
-<p> Heyy i have a site: https://ajota.neocities.org/ </p>
+This is my Study Portifolio, i try some random things in C, C#, Py and JS. 
 
-<img height="200" weight="300" src="https://64.media.tumblr.com/12b9ba48026c020e601249e041b6756a/tumblr_inline_ptf4mz96741wd9yn3_500.gif">
+<img src:"https://steamuserimages-a.akamaihd.net/ugc/574564421344097398/523238DC382BB8C86BF70CD448D927A69AECEB17/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
